@@ -22,10 +22,10 @@ It validates user input and performs the appropriate temperature conversion base
 temperature-converter/
 │
 ├── procedural-version/
-│   └── temperature_converter.py
+│   └── main.py
 │
 ├── oop-version/
-│   ├── main.py
+│   ├── ConverterUI
 │   └── temperatureconverter.py
 │
 └── README.md
@@ -124,6 +124,3 @@ Possible future enhancements:
 
 ---
 
-## Author
-
-Built as part of my Python learning journey and shared to document my progress from procedural programming to Object-Oriented Programming.
