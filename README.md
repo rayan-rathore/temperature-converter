@@ -21,7 +21,7 @@ It validates user input and performs the appropriate temperature conversion base
 ```
 temperature-converter/
 │
-├── procedural-version/
+├── v1_procedural/
 │   └── main.py
 │
 ├── oop-version/
