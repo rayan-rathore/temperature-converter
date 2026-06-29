@@ -1,3 +1,7 @@
+<img width="1919" height="1079" alt="Screenshot 2026-06-29 180332" src="https://github.com/user-attachments/assets/8ffed7ee-c518-4980-818b-7fe727650954" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-29 180314" src="https://github.com/user-attachments/assets/8c2a3864-0bba-41b8-8c49-fd60906bb0ff" />
+
+
 # Temperature Converter
 
 A simple Python Temperature Converter project built as part of my Python learning journey.
